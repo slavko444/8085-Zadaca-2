@@ -19,6 +19,7 @@
  
 
 
+```
 CSR 01001 000
 
 PA 01001 001
@@ -51,7 +52,8 @@ MVI A, D6h
 
 OUT CSR
 
-END 
+END
+```
 
 [Slavko Srebrenoski ](https://github.com/slavko444)
 
