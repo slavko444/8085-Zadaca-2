@@ -9,10 +9,15 @@
 **Resenie:**
 
 А15 А14 А13 А12 А11
-32к 16к 8к 4к 2к
-0 1 0 0 1 
 
- ![Screenshot (1)](https://github.com/slavko444/8085-Zadaca-1/blob/main/8085A.png)
+32к 16к  8к  4к  2к
+
+0    1   0   0    1 
+
+
+ ![Screenshot (1)](https://github.com/slavko444/8085-Zadaca-2/blob/main/Diagram.png)
+ 
+
 
 CSR 01001 000
 
